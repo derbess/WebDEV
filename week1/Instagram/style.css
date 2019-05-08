@@ -1,0 +1,145 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	background-color: #FAFAFA;
+}
+.cont {
+	background-color: #FAFAFA;
+	width: 1000px;
+	height: 800px;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+.left {
+
+	width: 390px;
+	height: 800px;
+	float: left;
+	background-color: #FAFAFA;
+	margin-top: 44px;
+	margin-left: 122px;
+}
+.riri {
+
+}
+.rd {
+	border: 1px solid gray;
+	width: 360px;
+	height: 100px;
+	float: right;
+	background-color: white;
+	margin-top: 44px;
+	margin-right: 122px;
+}
+.rd p{
+	padding-left: 65px;
+	padding-top: 30px;
+}
+.rd a{
+	color: blue;
+}
+.right {
+	border: 1px solid gray;
+	width: 360px;
+	height: 550px;
+	float: right;
+	background-color: white;
+	margin-top: 44px;
+	margin-right: 122px;
+}
+.ins img{
+	padding-left: 80px;  
+	padding-top: 20px;
+	width: 190px;
+	height: 80px;
+}
+.desc{
+	font-family: Georgia;
+	font-size: 16px;
+	color:gray;
+	font-weight: bold;
+	padding-left: 20px;
+	float: center;
+}
+.instr img{
+	padding-left: 0px;  
+	padding-top: 80px;
+	width: 390px;
+	height: 600px;
+}
+.logwith {
+	margin-left: 20px;
+	font-size: 14px;
+	width: 160px;
+	height: 20px;
+}
+.face {
+	width: 300px;
+	height: 30px;
+	border: 0px solid darkblue;
+	border-radius: 5px; 
+	margin-top:20px; 
+	float: center;
+	margin-left:auto;
+	margin-right: auto;  
+	background-color: #3897F0;
+	font-size: 16px;
+	font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+	color: white;
+	font-weight: bold;
+}
+.first {
+	margin-top: 40px; 
+	margin-left: 20px;
+	width: 300px;
+	height: 20px;
+}
+.signup {
+	width: 300px;
+	margin-left: 20px;
+	margin-top: 40px;
+	height: 150px;
+}
+.sign {
+	border: 1px solid lightgray;
+	width: 300px;
+	height: 30px;
+	margin-top: 7px; 
+	color: gray;
+
+}
+.log {
+	margin-left: 20px;
+	font-size: 14px;
+	width: 160px;
+	height: 20px;
+}
+.login {
+	width: 300px;
+	height: 30px;
+	border: 0px solid darkblue;
+	border-radius: 5px; 
+	margin-top:20px; 
+	float: center;
+	margin-left:auto;
+	margin-right: auto;  
+	background-color: #3897F0;
+	font-size: 16px;
+	font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+	color: white;
+	font-weight: bold;
+}
+.eq {
+	width: 200px;
+	margin-left: 60px;
+	margin-top: 40px;
+	font-family: Georgia;
+	font-size: 12px;
+	color:gray;	
+	padding-left: 20px;
+	float: center;
+}

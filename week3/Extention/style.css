@@ -1,0 +1,43 @@
+* {
+	margin: 0px;
+	height: 100%;
+}
+body {
+	background-image: url(res/wall.jpg);
+	height: 100%;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+body p {
+	color: white;	
+}
+.greetings {
+    width: 33%;
+    height: 100%;
+    float: left;
+    font-size: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.others {
+    width: 33%;
+    height: 100%;
+    float: left;
+}
+
+#date { 
+    font-size: 16px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    float: right;
+}
+#moment {
+    font-size: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    float: right;
+
+}

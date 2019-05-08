@@ -1,0 +1,33 @@
+* {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0; 
+}
+body {
+    background-color: bisque;
+}
+.all {
+    height: 50px;
+    background-color: black; 
+}
+.line {
+    width: 1000px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px;
+}
+.line p{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    padding-top: 20px
+}
+.cont {
+    width: 800px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    border: solid 1px; 
+}
